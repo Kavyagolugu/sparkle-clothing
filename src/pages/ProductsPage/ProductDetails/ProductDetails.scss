@@ -1,0 +1,36 @@
+// display flex for the products
+.grid-wrapper{
+  display: flex;
+}
+
+// appliying the margin top and wigth for the image
+.text-wrapper{
+  margin-top: 50px;
+  width: 50%
+}
+
+// placing the image on the left side
+.image-wrapper{
+  width: 50%
+}
+
+// setting heigt and width for the product image
+.product-image{
+  height: 400px;
+  width: 450px,
+}
+
+.add-review{
+  margin-left: 50px
+}
+.back-btn{
+  text-decoration: none;
+}
+
+// styling for the model body
+.modal-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,775 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Miraan Men's Long Sleeve Casual Denim Shirt",
+      "description": "15 cm (6.1-inch) Super",
+      "imageUrl": "../assets/images/kidstreditional.webp",
+      "thumbnailUrl": "../assets/images/jeansshirt.jpg",
+      "maxRetailPrice": 750,
+      "actualPrice": 1500,
+      "category": "men",
+      "discountApplicable": 50,
+      "added": "4/9/2021",
+      "quantity": 15,
+      "bestSellerRanking": 1,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1002,
+          "name": "Kevin",
+          "email": "k@l.com",
+          "phone": "97654663",
+          "comment": "amazing!",
+          "rating": 4
+        },
+        {
+          "reviewId": 1,
+          "name": "navua",
+          "email": "2165741@cognizant.com",
+          "phone": "897979889",
+          "rating": 1,
+          "review": "fhtdcgr"
+        },
+        {
+          "reviewId": 0.8281658211044594,
+          "name": "jaya",
+          "email": "jaya@gmail.com",
+          "phone": "08989898989",
+          "rating": 1,
+          "review": "gigigui"
+        },
+        {
+          "reviewId": 1893,
+          "name": "pushpa",
+          "email": "2165741@cognizant.com",
+          "phone": "897979889",
+          "rating": 1,
+          "review": "giugy"
+        },
+        {
+          "reviewId": 6548,
+          "name": "preethi",
+          "email": "2165741@cognizant.com",
+          "phone": "99999999",
+          "rating": 1,
+          "review": "hello"
+        },
+        {
+          "reviewId": 423,
+          "name": "jaya",
+          "email": "jaya@gmail.com",
+          "phone": "08898989898",
+          "rating": 1,
+          "review": "vsgvhgdfx"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Kids Night Wear from BIBA with Comfort",
+      "description": "Supercharged by M2 Pro or M2 Max",
+      "imageUrl": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Apple%20MacBook%20Pro%20M2",
+      "thumbnailUrl": "../assets/images/kidsnightwear.jpg",
+      "imgAltText": "Apple-Macbook-Pro-M2",
+      "maxRetailPrice": 700,
+      "actualPrice": 1000,
+      "category": "kids",
+      "discountApplicable": 30,
+      "added": "4/9/2021",
+      "quantity": 34,
+      "bestSellerRanking": 2,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1002,
+          "name": "Kevin",
+          "email": "k@l.com",
+          "phone": "97654663",
+          "comment": "amazing!",
+          "rating": 4
+        },
+        {
+          "reviewId": 9177,
+          "name": "jaya",
+          "email": "jaya@gmail.com",
+          "phone": "08898989898",
+          "rating": "3",
+          "review": "hello"
+        },
+        {
+          "reviewId": 4385,
+          "name": "kavya",
+          "email": "kavya@gmail.com",
+          "phone": "56567898",
+          "rating": "4",
+          "review": "hello"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "BIBA Grey Cotton Unstitched Suit Set",
+      "description": "Turquoise Grey Maxi Dress",
+      "imageUrl": "../assets/images/kidstreditional.webp",
+      "thumbnailUrl": "../assets/images/whitekurtha.jpg",
+      "maxRetailPrice": 1000,
+      "actualPrice": 2000,
+      "category": "women",
+      "discountApplicable": 50,
+      "added": "4/9/2021",
+      "quantity": 100,
+      "bestSellerRanking": 2,
+      "featured": true,
+      "reviews": [
+        {
+          "id": "3",
+          "name": "navua",
+          "email": "2165741@cognizant.com",
+          "phone": "897979889",
+          "rating": 1,
+          "review": "gyutytr"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Levi's Women's Cotton Hooded Sweatshirt",
+      "description": "Cotton Hooded Neck Sweatshirt with long sleeves",
+      "imageUrl": "../assets/images/kidstreditional.webp",
+      "thumbnailUrl": "../assets/images/womens-tshirt.jpg",
+      "imgAltText": "Apple Iphone 13 Pro",
+      "maxRetailPrice": 642,
+      "actualPrice": 1070,
+      "category": "women",
+      "discountApplicable": 40,
+      "added": "4/9/2021",
+      "quantity": 700,
+      "bestSellerRanking": 4,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1004,
+          "name": "Kevin",
+          "email": "k@l.com",
+          "phone": "97654663",
+          "comment": "amazing!",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Women's Yellow Georgette Flared Western Dress",
+      "description": "Floral Print dress with Yellow Georgette Floral Print Flared Western Dress",
+      "imageUrl": "../assets/images/kidstreditional.webp",
+      "thumbnailUrl": "../assets/images/floweral-dress.jpg",
+      "imgAltText": "Apple Iphone 13 Pro",
+      "maxRetailPrice": 751,
+      "actualPrice": 771,
+      "category": "women",
+      "discountApplicable": 10,
+      "added": "4/9/2021",
+      "quantity": 5,
+      "bestSellerRanking": 1,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1002,
+          "name": "Kevin",
+          "email": "k@l.com",
+          "phone": "97654663",
+          "comment": "amazing!",
+          "rating": 4
+        },
+        {
+          "reviewId": 6832,
+          "name": "kavya",
+          "email": "mahesh@gmail.com",
+          "phone": "4545454567",
+          "rating": "5",
+          "review": "hello"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Naughty Ninos Women's Knee-Length Dress Floral",
+      "description": "15 cm (6.1-inch) Super",
+      "imageUrl": "../assets/images/kidstreditional.webp",
+      "thumbnailUrl": "../assets/images/jeans-frock.jpg",
+      "imgAltText": "Apple Iphone 13 Pro",
+      "maxRetailPrice": 599,
+      "actualPrice": 799,
+      "category": "kids",
+      "discountApplicable": 25,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 4,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1002,
+          "name": "Kevin",
+          "email": "k@l.com",
+          "phone": "97654663",
+          "comment": "amazing!",
+          "rating": 4
+        },
+        {
+          "reviewId": 7937,
+          "name": "kavya",
+          "email": "mahesh@gmail.com",
+          "phone": "04545454567",
+          "rating": 1,
+          "review": "good product"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Gangsta Jacket Mens and Boys Puffer Jackets",
+      "description": "Puffer jacket with high style Gangsta Jacket Mens and Boys Puffer Jackets",
+      "imageUrl": "../assets/images/kidstreditional.webp",
+      "thumbnailUrl": "../assets/images/mens-jacket.jpg",
+      "maxRetailPrice": 2328,
+      "actualPrice": 4000,
+      "category": "men",
+      "discountApplicable": 20,
+      "added": "4/9/2021",
+      "quantity": 100,
+      "bestSellerRanking": 4,
+      "featured": true,
+      "reviews": [
+        {
+          "reviewId": 0,
+          "name": "divya",
+          "email": "2165741@cognizant.com",
+          "phone": "0000000000",
+          "rating": 1,
+          "review": "hgyfd"
+        },
+        {
+          "reviewId": 0.7932737518222623,
+          "name": "Kavya Goluguri",
+          "email": "2165741@cognizant.com",
+          "phone": "897979889",
+          "rating": 1,
+          "review": "ftgdrft"
+        },
+        {
+          "reviewId": 1,
+          "name": "Kavya Goluguri",
+          "email": "2165741@cognizant.com",
+          "phone": "897979889",
+          "rating": 1,
+          "review": "gyf"
+        },
+        {
+          "reviewId": 3104,
+          "name": "kavya",
+          "email": "kavya@gmail.com",
+          "phone": "56567898",
+          "rating": "3",
+          "review": "good"
+        },
+        {
+          "reviewId": 4835,
+          "name": "lakshmana",
+          "email": "mahesh@gmail.com",
+          "phone": "04545454567",
+          "rating": "5",
+          "review": "huhu"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Dior Plain White T Shirt The Vintage Crew",
+      "description": "Made using a heavyweight, custom-knit fabric that's unbelievably soft yet sturdy - The Vintage Crew is guaranteed to feel like an old favourite from day one.",
+      "imageUrl": "../assets/images/",
+      "thumbnailUrl": "../assets/images/white-tshirt.webp",
+      "maxRetailPrice": 4500,
+      "actualPrice": 5000,
+      "category": "men",
+      "discountApplicable": 10,
+      "added": "4/9/2021",
+      "quantity": 100,
+      "bestSellerRanking": 4,
+      "featured": true,
+      "reviews": [
+        {
+          "id": "8",
+          "name": "navua",
+          "email": "2165741@cognizant.com",
+          "phone": "897979889",
+          "rating": "4",
+          "review": "helo"
+        },
+        {
+          "reviewId": 1,
+          "name": "divya",
+          "email": "2165741@cognizant.com",
+          "phone": "jguyjf",
+          "rating": 1,
+          "review": "hdgf"
+        },
+        {
+          "reviewId": 4445,
+          "name": "kavya",
+          "email": "kavyagoluguri@gmail.com",
+          "phone": "989675475",
+          "rating": 1,
+          "review": "hello"
+        },
+        {
+          "reviewId": 1362,
+          "name": "kavya",
+          "email": "kavyagoluguri@gmail.com",
+          "phone": "989675475",
+          "rating": "4",
+          "review": "good product "
+        },
+        {
+          "reviewId": 9618,
+          "name": "chandhana",
+          "email": "chandhana@gmail.com",
+          "phone": "78787897897",
+          "rating": "5",
+          "review": "hello"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Dior Black Suit Virgin Wool Slim Fit 2-Piece Suit Set",
+      "description": "Black suit Dior Black Suit",
+      "imageUrl": "../assets/images/",
+      "thumbnailUrl": "../assets/images/jks.jpg",
+      "maxRetailPrice": 3600,
+      "actualPrice": 4000,
+      "category": "men",
+      "discountApplicable": 10,
+      "added": "4/9/2021",
+      "quantity": 100,
+      "bestSellerRanking": 4,
+      "featured": true,
+      "reviews": [
+        {
+          "reviewId": 7302,
+          "name": "kavya",
+          "email": "sravya@gmail.com",
+          "phone": "12345676",
+          "rating": "5",
+          "review": "amazing product with good quality"
+        },
+        {
+          "reviewId": 3618,
+          "name": "kavya",
+          "email": "kavyagoluguri@gmail.com",
+          "phone": "989675475",
+          "rating": "5",
+          "review": "Good"
+        },
+        {
+          "reviewId": 414,
+          "name": "jaya",
+          "email": "jaya@gmail.com",
+          "phone": "8898989898",
+          "rating": "5",
+          "review": "wonderful product"
+        },
+        {
+          "reviewId": 147,
+          "name": "divya",
+          "email": "2165741@cognizant.com",
+          "phone": "0000000000",
+          "rating": "5",
+          "review": "geuvu"
+        },
+        {
+          "reviewId": 7107,
+          "name": "chandhana",
+          "email": "chandhana@gmail.com",
+          "phone": "78787897897",
+          "rating": "5",
+          "review": "grigu"
+        },
+        {
+          "reviewId": 9178,
+          "name": "divya",
+          "email": "2165741@cognizant.com",
+          "phone": "000000009391689430",
+          "rating": 1,
+          "review": "fytdy"
+        },
+        {
+          "reviewId": 5738,
+          "name": "chandhana",
+          "email": "chandhana@gmail.com",
+          "phone": "78787897897",
+          "rating": "4",
+          "review": "gtdtd"
+        },
+        {
+          "reviewId": 8470,
+          "name": "Kiran",
+          "email": "kiran@gmail.com",
+          "phone": "78787878787",
+          "rating": "5",
+          "review": "hello"
+        },
+        {
+          "reviewId": 5031,
+          "name": "jaya",
+          "email": "kiran@gmail.com",
+          "phone": "6767676767",
+          "rating": 1,
+          "review": "hrl"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 101,
+      "name": "Men"
+    },
+    {
+      "id": 102,
+      "name": "Women"
+    },
+    {
+      "id": 103,
+      "name": "Kids"
+    }
+  ],
+  "contactData": {
+    "address": "280 ParK Avenue Z,Cross cut Complex, Bangalore, India",
+    "description": "We're available to assist you Monday through Friday, 9am to 5pm EST. Please don't hesitate to contact us if you have any questions or concerns.",
+    "phone": [
+      "(91) 987 654 3210",
+      "(91) 987 654 3211"
+    ],
+    "email": "contact@sparkclothing.com"
+  },
+  "getInTouchData": [
+    {
+      "name": "Arun",
+      "email": "arun@gmail.com",
+      "message": "Awesome website",
+      "id": 10
+    },
+    {
+      "fullName": "kavya",
+      "email": "kavyagoluguri@gmail.com",
+      "phone": "",
+      "query": "jyguyrfufi",
+      "isSaved": false,
+      "isError": false,
+      "id": 12
+    },
+    {
+      "name": "",
+      "email": "2165741@cognizant.com",
+      "message": "",
+      "isSaved": false,
+      "isError": false,
+      "fullName": "hoijijlh",
+      "query": "fyuer75uedue",
+      "id": 13
+    },
+    {
+      "fullName": "bdjuguydfutf",
+      "email": "kavyagoluguri@gmail.com",
+      "phone": "",
+      "query": "ytdyhsdhu",
+      "isSaved": false,
+      "isError": false,
+      "id": 14
+    },
+    {
+      "name": "bdjuguydfutf",
+      "email": "kavyagoluguri@gmail.com",
+      "phone": "",
+      "message": "gjAYFSYTADXJU",
+      "isSaved": false,
+      "isError": false,
+      "id": 15
+    },
+    {
+      "name": "bdjuguydfutf",
+      "email": "kavyagoluguri@gmail.com",
+      "message": "hvgfrytd",
+      "isSaved": false,
+      "isError": false,
+      "id": 16
+    },
+    {
+      "name": "bdjuguydfutf",
+      "email": "kavyagoluguri@gmail.com",
+      "message": "hvgfrytd",
+      "isSaved": true,
+      "isError": false,
+      "id": 17
+    },
+    {
+      "name": "bdjuguydfutf",
+      "email": "kavyagoluguri@gmail.com",
+      "message": "jguydfyfytdy",
+      "isSaved": false,
+      "isError": false,
+      "id": 18
+    },
+    {
+      "name": "bdjuguydfutf",
+      "email": "kavyagoluguri@gmail.com",
+      "message": "jguydfyfytdy",
+      "isSaved": true,
+      "isError": false,
+      "id": 19
+    },
+    {
+      "name": "bdjuguydfutf",
+      "email": "kavyagoluguri@gmail.com",
+      "message": "jguydfyfytdy",
+      "isSaved": true,
+      "isError": false,
+      "id": 20
+    },
+    {
+      "name": "bdjuguydfutf",
+      "email": "kavyagoluguri@gmail.com",
+      "message": "hfgsdxgfrszxsdzd",
+      "isSaved": false,
+      "isError": false,
+      "id": 21
+    },
+    {
+      "name": "bdjuguydfutf",
+      "email": "kavyagoluguri@gmail.com",
+      "phone": "12345676",
+      "rating": "4",
+      "review": "hjhewfjhf",
+      "id": 22
+    },
+    {
+      "name": "bdjuguydfutf",
+      "email": "kavyagoluguri@gmail.com",
+      "message": "hgyjdfhtd",
+      "isSaved": false,
+      "isError": false,
+      "id": 23
+    },
+    {
+      "name": "bdjuguydfutf",
+      "email": "kavya@y",
+      "message": "hello",
+      "isSaved": false,
+      "isError": false,
+      "id": 24
+    },
+    {
+      "name": "sivagiri",
+      "email": "siva@gmail.com",
+      "message": "nfggrsre",
+      "isSaved": false,
+      "isError": false,
+      "id": 25
+    },
+    {
+      "name": "Kavya Goluguri",
+      "email": "2165741@cognizant.com",
+      "message": "Kavya",
+      "isSaved": false,
+      "isError": false,
+      "id": 26
+    },
+    {
+      "name": "Kavya Goluguri",
+      "email": "2165741@cognizant.com",
+      "message": "",
+      "isSaved": true,
+      "isError": false,
+      "id": 27
+    },
+    {
+      "name": "excuse",
+      "email": "",
+      "message": "excuse",
+      "isSaved": true,
+      "isError": false,
+      "id": 28
+    },
+    {
+      "name": "kavya",
+      "email": "kavya@gmail.com",
+      "message": "query regarding product",
+      "isSaved": false,
+      "isError": false,
+      "id": 29
+    },
+    {
+      "name": "jaya",
+      "email": "jaya@gmail.com",
+      "message": "huyu",
+      "isSaved": false,
+      "isError": false,
+      "id": 30
+    },
+    {
+      "name": "jaya",
+      "email": "jaya@gmail.com",
+      "message": "vxbfxc",
+      "isSaved": false,
+      "isError": false,
+      "id": 31
+    },
+    {
+      "name": "kavya",
+      "email": "kavya@gmail.com",
+      "message": "hello",
+      "isSaved": false,
+      "isError": false,
+      "id": 32
+    },
+    {
+      "id": 5785,
+      "name": "chandhana",
+      "email": "chandhana@gmail.com",
+      "message": "gftbcf"
+    },
+    {
+      "id": 1600,
+      "name": "divya",
+      "email": "2165741@cognizant.com",
+      "message": "gyty"
+    },
+    {
+      "id": 1335,
+      "name": "",
+      "email": "",
+      "message": ""
+    },
+    {
+      "id": 4315,
+      "name": "jaya",
+      "email": "chandhana@gmail.com",
+      "message": "hello"
+    },
+    {
+      "id": 7183,
+      "name": "",
+      "email": "sangi@gmail.com",
+      "message": ""
+    },
+    {
+      "id": 6574,
+      "name": "kavya",
+      "email": "kavyagoluguri@gmail.com",
+      "message": "hello"
+    },
+    {
+      "id": 3276,
+      "name": "hello",
+      "email": "hello@gmail.com",
+      "message": "gytr5trws"
+    },
+    {
+      "id": 2522,
+      "name": "kavya",
+      "email": "kavya@gmail.com",
+      "message": "excusemi"
+    },
+    {
+      "id": 6319,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "message": "Hello, this is a test message."
+    },
+    {
+      "id": 4747,
+      "name": "kavya",
+      "email": "kavyagoluguri@gmail.com",
+      "message": "hello"
+    },
+    {
+      "id": 3960,
+      "name": "",
+      "email": "",
+      "message": ""
+    },
+    {
+      "id": 9663,
+      "name": "ji",
+      "email": "hii",
+      "message": "nbj"
+    },
+    {
+      "id": 5924,
+      "name": "",
+      "email": "kavya",
+      "message": ""
+    },
+    {
+      "id": 4941,
+      "name": "ka",
+      "email": "",
+      "message": ""
+    },
+    {
+      "id": 9585,
+      "name": "Mahesh",
+      "email": "mahesh@gmail.com",
+      "message": "hello"
+    },
+    {
+      "id": 8893,
+      "name": "Mahesh",
+      "email": "mahesh@gmail.com",
+      "message": "hello"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1002,
+      "name": "Kevin",
+      "email": "k@l.com",
+      "phone": "97654663",
+      "comment": "amazing!",
+      "rating": 4
+    },
+    {
+      "name": "bdjuguydfutf",
+      "email": "kavyagoluguri@gmail.com",
+      "phone": "12345676",
+      "rating": "5",
+      "review": "kavya",
+      "id": 1003
+    },
+    {
+      "name": "divya",
+      "email": "divya@com",
+      "phone": "1234567890",
+      "rating": "3",
+      "review": "rerwsfaz",
+      "id": 1004
+    },
+    {
+      "name": "bdjuguydfutf",
+      "email": "kavyag@gmail.com",
+      "phone": "12345676",
+      "rating": "4",
+      "review": "gfdfrasf",
+      "id": 1005
+    },
+    {
+      "name": "bdjuguydfutf",
+      "email": "kavyago@Dr",
+      "phone": "12345676",
+      "rating": 1,
+      "review": "hufyhd",
+      "id": 1006
+    }
+  ]
+}

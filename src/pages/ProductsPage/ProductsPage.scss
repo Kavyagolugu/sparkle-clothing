@@ -1,0 +1,52 @@
+// styling for the products page
+.categories{
+  margin-right: 200px;
+}
+
+// styling the products count
+.products-count{
+  margin-right: 350px;
+}
+
+// setting margin right to dropdown
+.dropdown{
+  margin-right: 200px;
+}
+
+// setting grid view for the categories and product list
+.wrapper {
+  display: grid;
+  grid-template-columns: 25% 75%;
+}
+
+//setting grid view for the category
+.category {
+  grid-area: 1 / 1 / 2 / 2;
+}
+
+// text decoration for the category
+.category a{
+   text-decoration: none;
+   font-size: 20px;
+}
+
+.product-list {
+  grid-template-columns: 1fr 1fr 1fr;
+  cursor: pointer;
+}
+
+#sortInput{
+  background-color: #77ecc1;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  margin-left: 600px;
+  padding: 5px 15px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+// pointer for the dropdowm menu
+.dropdown-menu{
+  cursor: pointer;
+}

@@ -1,0 +1,112 @@
+// styling for the price button
+.retail-price-btn {
+  margin-right: 20px;
+}
+
+// styling actual price 
+#actualPrice {
+  text-decoration: line-through;
+  color: rgb(237, 87, 18);
+  font-size: 14px;
+
+}
+
+// styling add to cart button
+.addtocart-btn {
+  margin-top: 10px;
+  background-color: rgb(255, 62, 108);
+  border: none;
+  border-radius: 5px;
+  margin-left: 40px;
+  margin-right: 50px;
+  color: white;
+  padding: 5px 15px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+// add to cart button onhover
+.addtocart-btn:hover {
+  background-color: #72a794;
+}
+
+// styling products
+.products {
+  cursor: pointer;
+  overflow: hidden;
+}
+
+// styling image in the products page
+.products-image {
+  height: 200px;
+  width: 250px
+}
+
+// image hover for the product
+.products-image:hover {
+  transform: scale(1.1);
+  transition: transform 0.2s ease-in-out;
+}
+
+// styling the search box
+.search-box {
+  margin-left: 200px;
+  border-radius: 20px;
+  width: 350px
+}
+
+// styling logo image
+.logo-img {
+  border-radius: 10px;
+  height: 35px;
+}
+
+// inline styling for offers
+.inline-list {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  margin-left: 70px;
+}
+
+/* add spacing between list items */
+.inline-list li {
+  p {
+    margin-top: -5px;
+    font-size: 12px;
+    margin-right: 120px;
+    color: grey;
+  }
+}
+
+.inline-list i {
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+// setting height for the carousel image
+.carousel-image {
+  height: 250px;
+  width: 450px;
+}
+
+.carousel-content {
+  margin-left: 450px;
+}
+
+// seeting background colour for the carousel
+#carouselExampleIndicators {
+  background-color: aqua;
+}
+
+// styling for the view all
+.view-all{
+  margin-left: 500px;
+  background-color: aqua;
+}
+
+.view-all:hover {
+  background-color: rgb(12, 142, 142);
+}
